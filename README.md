@@ -1,4 +1,4 @@
-# Submission-NeoFi
+# Django-Notes-Management
 
 ## Installation
 
